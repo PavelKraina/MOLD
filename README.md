@@ -1,4 +1,4 @@
-MOLD – Modular Layout Designer
+**MOLD – Modular Layout Designer**
 
 MOLD (Modular Layout Designer) is an open-source KNIME application for
 designing experimental plate layouts compatible with Echo acoustic
